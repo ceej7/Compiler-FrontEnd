@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(99,26): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(154,1): warning C4804:  '<': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(158,1): warning C4804:  '<': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(191,1): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(195,1): warning C4804:  '<=': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(228,1): warning C4805:  '==': unsafe mix of type 'bool' and type 'const int' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(232,1): warning C4805:  '==': unsafe mix of type 'int' and type 'const bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(265,1): warning C4804:  '>': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(269,1): warning C4804:  '>': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(302,1): warning C4804:  '>=': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(306,1): warning C4804:  '>=': unsafe use of type 'bool' in operation
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(521,29): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(1001,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(1007,12): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(1032,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(1076,34): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(1076,34): warning C4018: C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\04-TransitionSchema\TransitionSchema.h(127) : warning C4715: 'TS_Attr::operator=': not all control paths return a value
+  04-TransitionSchema.vcxproj -> C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\04-TransitionSchema\Debug\04-TransitionSchema.exe

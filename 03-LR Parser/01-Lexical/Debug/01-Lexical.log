@@ -1,0 +1,21 @@
+﻿  LRParserMain.cpp
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(399,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(405,12): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(430,29): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(470,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(473,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(479,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(487,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(507,44): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(510,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(516,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(524,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(547,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(559,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(578,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(600,19): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(766,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(790,16): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(804,17): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\01-Lexical\LRparser.h(817,17): warning C4018:  '<': signed/unsigned mismatch
+  01-Lexical.vcxproj -> C:\Users\ceej_\OneDrive - fiiishhh\桌面\Compiler\lab\03-LR Parser\Debug\03-LR.exe
